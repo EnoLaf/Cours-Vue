@@ -1,0 +1,25 @@
+<template>
+    <h1>titre</h1>
+    <ul>
+        <un-ami 
+            leNom="Aragsane" 
+            lePhone="0102030405" 
+            leMail="aragsane@hn.com"
+            premium='1'>
+        </un-ami>
+        <un-ami 
+            leNom="Jonathan" 
+            lePhone="0102030405" 
+            leMail="jonathan@simon.com"
+            premium='1'>
+        </un-ami>
+        <un-ami 
+            leNom="Florent" 
+            lePhone="0102030405" 
+            leMail="flo@bdx.com"
+            premium='0'>
+        </un-ami>
+    </ul>
+</template>
+
+<script></script>
